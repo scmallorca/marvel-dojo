@@ -59,8 +59,5 @@ $ git push --set-upstream origin team_name-branch
 * Select as "base fork" the "cmallorca/marvel-dojo" master branch
 * Select as "head fork" your "your_name/marvel-dojo" team_name branch
 
-## Extra challenges
-* Use ReactiveExtensions to control timers with TestScheduler (available for any language)
-
 ## References 
 * Original kata posted in github: [Marvel Kata](http://nikeyes.github.io/MarvelKata)
