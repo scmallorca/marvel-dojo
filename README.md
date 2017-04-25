@@ -1,4 +1,4 @@
-MArvel Dojo
+Marvel Dojo
 =========================
 
 ## Instrucciones (spanish)
